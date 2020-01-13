@@ -7,7 +7,7 @@ package mechachrome.registration.app;
 
 /**
  *
- * @author Person1
+ * @author Mateusz Utracki-Janeta
  */
 public class Menu extends Methods {
     
